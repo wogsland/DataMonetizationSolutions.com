@@ -1,2 +1,3 @@
 # DataMonetizationSolutions.com
-website for data monetization consultancy
+
+Website for a data monetization consultancy
