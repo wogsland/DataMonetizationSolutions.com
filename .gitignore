@@ -1,0 +1,5 @@
+# Ignore ALL the Things!!! #
+############################
+composer.lock
+/vendor
+/credentials.php
