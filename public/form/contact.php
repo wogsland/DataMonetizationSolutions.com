@@ -1,6 +1,6 @@
 <?php
 echo 'before req<br>';
-require_once '../inc.php';
+require_once '../../inc.php';
 echo 'after req<br>';
 print_r($_POST);
 
