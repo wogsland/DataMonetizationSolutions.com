@@ -1,6 +1,5 @@
 <?php
 require_once '../../inc.php';
-print_r($_POST);die;
 
 $vars = array('name', 'email', 'comments');
 foreach ($vars as $var) {
