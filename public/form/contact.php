@@ -1,8 +1,6 @@
 <?php
-echo 'before req<br>';
 require_once '../../inc.php';
-echo 'after req<br>';
-print_r($_POST);
+print_r($_POST);die;
 
 $vars = array('name', 'email', 'comments');
 foreach ($vars as $var) {
