@@ -1,6 +1,6 @@
 # DataMonetizationSolutions.com
 
-Website for a [data monetization consultancy](DataMonetizationSolutions.com).
+Website for a [data monetization consultancy](http://DataMonetizationSolutions.com).
 
 ## Setup ##
 
