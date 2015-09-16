@@ -132,3 +132,24 @@ body {
     margin-top: 120px;
   }
 }
+
+/* ----------------------white style ------------------ */
+/* unvisited link */
+.white-style a:link {
+    color: #FFFFFF;
+}
+
+/* visited link */
+.white-style a:visited {
+    color: #FFFFFF;
+}
+
+/* mouse over link */
+.white-style a:hover {
+    color: #FFFFFF;
+}
+
+/* selected link */
+.white-style a:active {
+    color: #FFFFFF;
+}
