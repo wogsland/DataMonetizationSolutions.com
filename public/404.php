@@ -11,9 +11,9 @@ require __DIR__.'/../include/nav.php';
     <div class="row">
         <div class="col-lg-12">
             That's a 404 error right there. Yup.
-        </div>
-    </div>
-</div>
+        </div><!-- /.col-lg-12 -->
+    </div><!-- /.row -->
+</div><!-- /.container -->
 <?php
 require __DIR__.'/../include/footer.php';
 ?>
