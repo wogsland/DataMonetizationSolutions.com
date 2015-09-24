@@ -1,6 +1,6 @@
 <?php
 define('TITLE', 'Data Monetization Solutions');
-define('NAV', 'about');
+define('NAV', 'home');
 require __DIR__.'/../include/head.php';
 ?>
 <link href="css/carousel.css" rel="stylesheet">
