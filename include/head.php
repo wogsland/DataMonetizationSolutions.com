@@ -32,4 +32,3 @@ if (!defined('TITLE')) {
 
     <!-- Custom styles for this template -->
     <link href="css/about.css" rel="stylesheet">
-  </head>
