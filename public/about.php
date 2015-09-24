@@ -1,5 +1,6 @@
 <?php
 define('TITLE', 'About Us');
+define('NAV', 'about');
 require __DIR__.'/../include/head.php';
 ?>
 <link href="css/about.css" rel="stylesheet">

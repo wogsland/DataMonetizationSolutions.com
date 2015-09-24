@@ -17,12 +17,12 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="index.html#analytic">Analytic Solutions</a></li>
-                <li><a href="index.html#computing">Computing Solutions</a></li>
-                <li><a href="index.html#devops">Dev-Ops Solutions</a></li>
-                <li class="active"><a href="#">About</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li<?php echo 'home' == NAV ? ' class="active"' : '';?>><a href="index.html">Home</a></li>
+                <li<?php echo 'analytics' == NAV ? ' class="active"' : '';?>><a href="index.html#analytic">Analytic Solutions</a></li>
+                <li<?php echo 'computing' == NAV ? ' class="active"' : '';?>><a href="index.html#computing">Computing Solutions</a></li>
+                <li<?php echo 'devops' == NAV ? ' class="active"' : '';?>><a href="index.html#devops">Dev-Ops Solutions</a></li>
+                <li<?php echo 'about' == NAV ? ' class="active"' : '';?>><a href="about.html">About</a></li>
+                <li<?php echo 'contact' == NAV ? ' class="active"' : '';?>><a href="contact.html">Contact</a></li>
               </ul>
             </div>
           </div>

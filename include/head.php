@@ -31,4 +31,3 @@ if (!defined('TITLE')) {
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="css/about.css" rel="stylesheet">
