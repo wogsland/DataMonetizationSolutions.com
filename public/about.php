@@ -45,7 +45,7 @@ require __DIR__.'/../include/head.php';
         <div class="col-lg-offset-1 col-lg-10">
           <h2>About Us</h2>
 		  <!--   ideas for about us from here: http://blog.publishedandprofitable.com/2011/01/20/tips-for-creating-effective-about-us-statements/  cara  -->
-          <p>We love data and we know how hard it can be to implement data collection structures in the business world. We love that we can help you organize your data and better yet, make money with your data!
+          <p class="text-justify">We love data and we know how hard it can be to implement data collection structures in the business world. We love that we can help you organize your data and better yet, make money with your data!
             With over a decade of analytics experience, Bradley Wogsland brings
             a diverse toolkit to monetize your data.
           </p>
