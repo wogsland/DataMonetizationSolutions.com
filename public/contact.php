@@ -65,7 +65,7 @@
       <center>
         <h1>Connect With Us!</h1>
         <div class="col-sm-offset-3 col-sm-6">
-          <form class="form-horizontal" action="form/contact.php" method="POST">
+          <form class="form-horizontal" action="form/contact.do" method="POST">
             <div class="form-group">
               <label for="email" class="col-sm-2 control-label">Email</label>
               <div class="col-sm-10">

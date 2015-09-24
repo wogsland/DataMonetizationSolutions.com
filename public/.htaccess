@@ -1,0 +1,9 @@
+RewriteEngine On
+Options +FollowSymLinks
+RewriteBase /
+
+RewriteRule ^(.*)\.html$ $1.php [L]
+RewriteRule ^(.*)\.do$ $1.php [L]
+
+#404 ERROR#
+ErrorDocument 404 /404.php
